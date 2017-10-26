@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # vueclie-demo
 
 > A Vue.js project  demo
